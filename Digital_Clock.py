@@ -23,4 +23,4 @@ foreground = 'white')
 lbl.pack(anchor = 'center')
 time()
 mainloop()
-Output
+
